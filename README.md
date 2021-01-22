@@ -1,5 +1,7 @@
 # ssh-ca
 
+SSH certificate authentication example in a container.
+
 ## Roles
 
 - Local: CA
